@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="ASCII"?>
+<organization:Organization xmlns:organization="http://documentation.bonitasoft.com/organization-xml-schema/1.1">
+  <customUserInfoDefinitions/>
+  <users/>
+  <roles/>
+  <groups/>
+  <memberships/>
+</organization:Organization>
