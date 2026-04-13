@@ -7,11 +7,7 @@
     <version>0.0.1</version>
   </parent>
   <artifactId>fruteriasalud</artifactId>
-<<<<<<< HEAD
-  <name>Fruteriaaaaaaaaaaaaana Salud</name>
-=======
-  <name>FruteriaSalude</name>
->>>>>>> branch 'master' of https://github.com/Jeremiaspch/ProyectoSIE.git
+  <name>FruteriaSalud</name>
   <dependencies>
     <dependency>
       <groupId>org.bonitasoft.engine</groupId>
